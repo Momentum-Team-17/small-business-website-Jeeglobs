@@ -1,0 +1,6 @@
+index.html completed
+COMMITTED
+
+corrected title in homepage
+header and first three items completed
+in-stock.html completed
