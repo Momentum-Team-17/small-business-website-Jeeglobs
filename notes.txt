@@ -1,0 +1,13 @@
+index.html completed
+COMMITTED
+
+corrected title in homepage
+header and first three items completed
+in-stock.html completed
+COMMITTED
+
+info.html completed
+COMMITTED
+
+-- NEED TO PUT INFO AS FOOTER ON BOTH PAGES --
+-- NEED TO PUT NAVBAR IN in-stock.html --
