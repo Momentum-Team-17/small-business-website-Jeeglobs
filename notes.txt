@@ -11,3 +11,7 @@ COMMITTED
 
 -- NEED TO PUT INFO AS FOOTER ON BOTH PAGES --
 -- NEED TO PUT NAVBAR IN in-stock.html --
+
+added nav bar to all pages
+decided against the FOOTER
+COMMITTED
